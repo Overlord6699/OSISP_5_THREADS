@@ -1,0 +1,6 @@
+﻿  lab5.c
+C:\Users\Илья\source\repos\Lab5_Threads\Lab5_Threads\lab5.c(51,38): warning C4133: функция: несовместимые типы - из "LPCSTR" в "LPCWSTR"
+C:\Users\Илья\source\repos\Lab5_Threads\Lab5_Threads\lab5.c(274,39): warning C4133: функция: несовместимые типы - из "LPCSTR" в "LPCWSTR"
+C:\Users\Илья\source\repos\Lab5_Threads\Lab5_Threads\lab5.c(278,31): warning C4267: функция: преобразование из "size_t" в "DWORD"; возможна потеря данных
+MSVCRT.lib(exe_main.obj) : error LNK2001: неразрешенный внешний символ main.
+C:\Users\Илья\source\repos\Lab5_Threads\x64\Release\Lab5_Threads.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

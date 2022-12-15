@@ -1,0 +1,7 @@
+﻿  lab5.c
+C:\Users\Илья\source\repos\Lab5_Threads\Lab5_Threads\lab5.c(50,38): warning C4133: функция: несовместимые типы - из "LPCSTR" в "LPCWSTR"
+C:\Users\Илья\source\repos\Lab5_Threads\Lab5_Threads\lab5.c(269,39): warning C4133: функция: несовместимые типы - из "LPCSTR" в "LPCWSTR"
+C:\Users\Илья\source\repos\Lab5_Threads\Lab5_Threads\lab5.c(272,31): warning C4267: функция: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Илья\source\repos\Lab5_Threads\Lab5_Threads\lab5.c(231): warning C4716: ProcessQueue: должна возвращать значение
+C:\Users\Илья\source\repos\Lab5_Threads\Lab5_Threads\lab5.c(222): warning C4716: Enqueue: должна возвращать значение
+  Lab5_Threads.vcxproj -> C:\Users\Илья\source\repos\Lab5_Threads\x64\Debug\Lab5_Threads.exe
